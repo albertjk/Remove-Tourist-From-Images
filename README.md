@@ -2,7 +2,7 @@
 
 ## Description
 
-This program was part of my Multimedia Design & Programming coursework at university in California in September 2017.
+This program was created in September 2017 as part of my university coursework.
 
 Imagine that you are returning from a wonderful vacation and you see that all your
 photos have a person on them walking through the frame.
